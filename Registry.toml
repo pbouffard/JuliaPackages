@@ -1,0 +1,5 @@
+name = "PBouffardLocal"
+uuid = "8eaab17b-0496-4753-aab0-83fd57f3786c"
+repo = "git@github.com:pbouffard/JuliaPackages.git"
+
+[packages]
